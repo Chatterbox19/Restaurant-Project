@@ -1,0 +1,50 @@
+
+ul {
+    list-style-type: none;
+    display: block;
+    text-align: center;
+    justify-content: center;
+    color:rgb(239, 239, 243)
+}
+li {
+    float:center;
+
+}
+li a {
+    font-size: 30px;
+    display: block;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+
+}
+
+body {
+    background-image: url('Paristown-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+li a:hover {
+background-color: sandybrown;
+
+}
+
+.main-header {
+    color: brown;
+    text-align: center;
+    background-color:lightblue;
+    border: 3px solid lightgreen;
+    font-size: 45px;
+}
+
+h2 {
+    float: none;
+
+}
+
+.logo {
+    position: initial;
+
+}
